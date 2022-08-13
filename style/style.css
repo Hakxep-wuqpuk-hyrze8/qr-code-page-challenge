@@ -1,0 +1,32 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color:hsl(212, 45%, 89%);
+}
+
+.container {
+    position: relative;
+}
+
+.card {
+    width: 18rem;
+    height: 28rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 25%);
+    border-radius: 5%;
+}
+
+.qr-code-img {
+    border-radius: 10%;
+}
+
+.card-body h5 {
+    font-weight: 700;
+}
+
+.card-body p {
+    font-size: 15px;
+    font-weight: 400;
+    opacity: 50%;
+}
