@@ -20,7 +20,7 @@ website: https://hakxep-wuqpuk-hyrze8.github.io/qr-code-page-challenge/
 
 ### Screenshot
 
-![screenshot](./qr-code-challenge.png)
+![screenshot](./solution/qr-code-challenge.png)
 
 ## My process
 
